@@ -3,4 +3,6 @@ Farming Simulator Mod Manager
 
 This is a mod manager for Farming Simulator 19 and 22.
 
-Download link is: https://github.com/pchoiniere/FSModManager/blob/main/docs/download/FSModManagerSetup.exe
+Website: https://pchoiniere.github.io/FSModManager
+
+Download link is: https://pchoiniere.github.io/FSModManager/download/FSModManagerSetup.exe
